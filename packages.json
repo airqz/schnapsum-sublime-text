@@ -1,0 +1,31 @@
+{
+    "name": "schnapsum",
+    "title": "schnapsum",
+    "version": "1.0.0",
+    "description": "Create schnapsum with The Sublime Text.",
+    "homepage": "https://github.com/airqz/schnapsum-sublime-text",
+    "author": "airqz (forked from https://github.com/raphaelgoetter/brackets-schnapsum)",
+    "license": "MIT",
+    "categories":"snippets",
+    "keywords": [
+        "text",
+        "generator",
+        "alsace",
+        "elsass",
+        "lorem"
+    ],
+    "files": [
+        "Context.sublime-menu",
+        "Default (Linux).sublime-keymap",
+        "Default (OSX).sublime-keymap",
+        "Default (Windows).sublime-keymap",
+        "Main.sublime-menu",
+        "README.md",
+        "Schnapsum.py",
+        "Schnapsum.sublime-commands"
+    ],
+    "releases": {
+        "sublime_text": "*",
+             "tags": true
+    }
+}
