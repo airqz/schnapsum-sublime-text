@@ -1,0 +1,24 @@
+[
+    {
+        "id":"edit",
+        "children":
+        [
+            {
+                "id":"text",
+                "children":
+                [
+                    {
+                        "caption":"Schnapsum",
+                        "children":
+                        [
+                            {"command": "schnapsum", "caption": "a bit (5)", "args":{"qty":5}},
+                            {"command": "schnapsum", "caption": "some (15)", "args":{"qty":15}},
+                            {"command": "schnapsum", "caption": "lots (30)", "args":{"qty":30}},
+                            {"command": "schnapsum", "caption": "stick shake (200)", "args":{"qty":200}}
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

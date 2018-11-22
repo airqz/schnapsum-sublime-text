@@ -1,0 +1,26 @@
+[
+
+  {
+    "caption": "Schnapsum: (5) a bit",
+    "command": "schnapsum",
+    "args": {"qty": 5 }
+  },
+
+  {
+    "caption": "Schnapsum: (15) some",
+    "command": "schnapsum",
+    "args": {"qty": 15 }
+  },
+
+  {
+    "caption": "Schnapsum: (30) lots",
+    "command": "schnapsum",
+    "args": {"qty": 30 }
+  },
+
+  {
+    "caption": "Schnapsum: (200) stick shake",
+    "command": "schnapsum",
+    "args": {"qty": 200 }
+  }
+]
