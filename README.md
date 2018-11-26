@@ -1,24 +1,17 @@
 # schnapsum-sublime-text
 
-It allows you to Insert Lorem Ipsum in the editor via menu items or keyboard shortcut.
+Schnapsum extension for Sublime Text 2 and 3! By fork original Lorem Ipsum plugin [billymoon/LoremIpsum](https://github.com/billymoon/LoremIpsum).
+
+It allows you to Insert Schnapsum in the editor via menu items or keyboard shortcut.
 
 Schnapsum text is built by the creator of the original Schnapsum [raphaelgoetter/brackets-schnapsum](https://github.com/raphaelgoetter/brackets-schnapsum).
 
 So take advantage of Schnapsum in Alsatian, the modern and trendy language to create your fake texts and fill your pages with content. Hopla!
 
-## Install
-
 ### Install manually
 
-
-### Package Control
-
-The easiest way to install this is with [Package Control](http://wbond.net/sublime\_packages/package\_control).
-
- * If you just went and installed Package Control, you probably need to restart Sublime Text before doing this next bit.
- * Bring up the Command Palette `(command+shift+p` on OS X, `control+shift+p` on Linux/Windows).
- * Enter "Package Control: Install Package"
- * Select Schnapsum when the list appears.
+1. Open Preferences: Browse Packages for find directory
+2. Put the folder in sublime text preference into browser package
 
 ## How does it work?
 
@@ -28,8 +21,4 @@ Just press the shortcut key `(alt+shift+l)` to add Schnapsum text. Keep pressing
 
 ## Uninstall with the Command Palette
 
-Preferences: Browse Packages
-
-or
-
-Package Control: Remove Package 
+Preferences: Browse Packages or Package Control: Remove Package
