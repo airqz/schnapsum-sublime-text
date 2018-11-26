@@ -17,7 +17,7 @@ So take advantage of Schnapsum in Alsatian, the modern and trendy language to cr
 
 Select how much text you want from the menu item in `Edit->Text->Schnapsum` or on the right click menu in `Schnapsum`.
 
-Just press the shortcut key `(alt+shift+l)` to add Schnapsum text. Keep pressing to add more.
+Just press the shortcut key `(alt+shift+s)` to add Schnapsum text. Keep pressing to add more.
 
 ## Uninstall with the Command Palette
 

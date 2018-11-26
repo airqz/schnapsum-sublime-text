@@ -1,7 +1,6 @@
 import sublime
 import sublime_plugin
 import random
-import re
 from random import choice
 
 class SchnapsumCommand(sublime_plugin.TextCommand):

@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "Create schnapsum with The Sublime Text.",
     "homepage": "https://github.com/airqz/schnapsum-sublime-text",
-    "author": "airqz (forked from https://github.com/raphaelgoetter/brackets-schnapsum)",
+    "author": "airqz (forked from https://github.com/raphaelgoetter/brackets-schnapsum) + (forked from https://github.com/billymoon/LoremIpsum) ",
     "license": "MIT",
     "categories":"snippets",
     "keywords": [
@@ -21,6 +21,7 @@
         "Default (OSX).sublime-keymap",
         "Default (Windows).sublime-keymap",
         "Main.sublime-menu",
+        "LICENSE.md",
         "README.md",
         "Schnapsum.py",
         "Schnapsum.sublime-commands"
