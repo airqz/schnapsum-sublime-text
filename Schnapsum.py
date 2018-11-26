@@ -37,4 +37,3 @@ class SchnapsumCommand(sublime_plugin.TextCommand):
             # insert para before current cursor position
             self.view.insert(edit, selection.begin(), para)
 
-        self.view.end_edit(edit)
